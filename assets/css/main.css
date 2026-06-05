@@ -805,6 +805,7 @@ section,
 
 .hero:before {
   content: "";
+  background: rgba(20, 20, 20, 0.7);
   background: color-mix(in srgb, var(--background-color), transparent 30%);
   position: absolute;
   inset: 0;
