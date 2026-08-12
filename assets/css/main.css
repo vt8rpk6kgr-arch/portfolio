@@ -2061,8 +2061,8 @@ section,
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
-  opacity: 0;
+  background: transparent;
+  opacity: 1;
   transition: opacity 0.3s ease;
   display: flex;
   flex-direction: column;
