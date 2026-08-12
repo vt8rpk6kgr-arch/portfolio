@@ -2062,7 +2062,8 @@ section,
   right: 0;
   bottom: 0;
   background: transparent;
-  opacity: 1;
+  opacity: 1 !important;
+  visibility: visible !important;
   transition: opacity 0.3s ease;
   display: flex;
   flex-direction: column;
